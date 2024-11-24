@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=zxkNUfxjBN0
 ## Learning 8x8 array
 
 https://mtifall10.wordpress.com/2010/12/10/magnetic-sensing-chessboard/
+
 https://acboard.blogspot.com/
 
 work in progress, waiting permissions.
