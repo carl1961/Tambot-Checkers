@@ -1,1 +1,1 @@
-Tambot-Checkers  work in progress, waiting permitions.
+Tambot-Checkers  work in progress, waiting permissions.
