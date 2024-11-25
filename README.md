@@ -12,6 +12,8 @@ https://mtifall10.wordpress.com/2010/12/10/magnetic-sensing-chessboard/
 
 https://acboard.blogspot.com/
 
-work in progress.
+## Work in progress.
+
+Do not try hardware until final testing!
 
 ![animated-working-on-it-sign-3491825533](https://github.com/user-attachments/assets/02749323-5cc3-4db3-9d08-796a1447c13e)
