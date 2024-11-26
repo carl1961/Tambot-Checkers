@@ -32,6 +32,10 @@ Everything 3D Printed with PetG, PLA breaks down over age of a few years and bec
 
 ![WIN_20241126_11_03_55_Pro](https://github.com/user-attachments/assets/f75c1d10-d462-48e0-8279-db8821538c21)
 
+![image](https://github.com/user-attachments/assets/71c34c79-c0f0-409c-8054-48c8e3283845)
+
+![Screenshot 2024-11-26 171520](https://github.com/user-attachments/assets/83a11ca9-c96f-44fe-8251-7b7bafed61a5)
+
 
 
 
