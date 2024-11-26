@@ -18,6 +18,8 @@ https://acboard.blogspot.com/
 
 ![Tambot - a Checkers Playing Robot v30](https://github.com/user-attachments/assets/e2e69bf2-93f4-4463-8b0c-4cf8ea09e4d0)
 
+1/4 rotation moves plunger 30mm, same on Z, 1/4 turn moves Z 30mm
+
 ![WIN_20241126_11_04_25_Pro](https://github.com/user-attachments/assets/76276aee-783b-4b70-a93d-4e650af4e5bc)
 
 ![WIN_20241126_11_04_09_Pro](https://github.com/user-attachments/assets/a8fb9c96-d087-491b-8cec-4bf601f12a3a)
