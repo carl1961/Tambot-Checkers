@@ -12,6 +12,8 @@ https://mtifall10.wordpress.com/2010/12/10/magnetic-sensing-chessboard/
 
 https://acboard.blogspot.com/
 
+6701zz ball bearing  12mm ID x 18mm OD.
+
 ![Tambot - a Checkers Playing Robot v28](https://github.com/user-attachments/assets/63de65e1-0160-4ba2-acda-da160ee8f66e)
 
 ![Tambot - a Checkers Playing Robot v29](https://github.com/user-attachments/assets/7b083cb2-9aa9-4e30-b767-722ff640fbab)
