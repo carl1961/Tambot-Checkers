@@ -24,6 +24,8 @@ https://acboard.blogspot.com/
 
 1/4 rotation moves plunger 30mm, same on Z, 1/4 turn moves Z 30mm Leaneair rail is 140mm long MGN9H
 
+Everything 3D Printed with PetG, PLA breaks down over age of a few years and becomes very brittle.
+
 ![WIN_20241126_11_04_25_Pro](https://github.com/user-attachments/assets/76276aee-783b-4b70-a93d-4e650af4e5bc)
 
 ![WIN_20241126_11_04_09_Pro](https://github.com/user-attachments/assets/a8fb9c96-d087-491b-8cec-4bf601f12a3a)
